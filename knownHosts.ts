@@ -104,8 +104,6 @@ export const knownHosts = [
     "zeroboard.com/16979949#0",
     "zideo.nl/index.php?option=com_podfeed&zideo=6c4971596d513d3d&playzideo=6c344f596d31593d&Itemid=",
     "https://only-fans.uk/",
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "https://www.youtube.com/watch?v=xvFZjo5PgG0",
     "https://r.mtdv.me/",
     "https://rroll.derlin.ch",
     "https://spotify-rickroll.vercel.app/",
