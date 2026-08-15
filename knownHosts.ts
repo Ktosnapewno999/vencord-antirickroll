@@ -111,5 +111,4 @@ export const knownHosts = [
     "https://www.latlmes.com/breaking/news-rickroll-generator-1",
     "https://streamable.com/lf027o",
     "https://prank-website.rafidhoda.repl.co/",
-    
 ];
